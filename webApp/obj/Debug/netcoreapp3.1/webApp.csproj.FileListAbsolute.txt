@@ -1,0 +1,106 @@
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/webApp.deps.json
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/webApp.runtimeconfig.json
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/webApp.runtimeconfig.dev.json
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/webApp.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/webApp.pdb
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/webApp.csprojAssemblyReference.cache
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/webApp.AssemblyInfoInputs.cache
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/webApp.AssemblyInfo.cs
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/webApp.csproj.CoreCompileInputs.cache
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/webApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/staticwebassets/webApp.StaticWebAssets.Manifest.cache
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/staticwebassets/webApp.StaticWebAssets.xml
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/scopedcss/bundle/webApp.styles.css
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/webApp.RazorTargetAssemblyInfo.cache
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/webApp.dll
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/webApp.pdb
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/webApp.genruntimeconfig.cache
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/webApp.csproj.CopyComplete
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/islahul/Projects/webApp/webApp/obj/Debug/netcoreapp3.1/webApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/islahul/Projects/webApp/webApp/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/webApp.deps.json
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/webApp.runtimeconfig.json
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/webApp.runtimeconfig.dev.json
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/webApp.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/webApp.pdb
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/webApp.csprojAssemblyReference.cache
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/webApp.AssemblyInfoInputs.cache
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/webApp.AssemblyInfo.cs
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/webApp.csproj.CoreCompileInputs.cache
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/webApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/webApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/staticwebassets/webApp.StaticWebAssets.Manifest.cache
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/staticwebassets/webApp.StaticWebAssets.xml
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/scopedcss/bundle/webApp.styles.css
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/webApp.RazorTargetAssemblyInfo.cache
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/webApp.csproj.CopyComplete
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/webApp.dll
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/webApp.pdb
+/Users/islahul/Documents/Zone - Asp - Api/webApp/obj/Debug/netcoreapp3.1/webApp.genruntimeconfig.cache

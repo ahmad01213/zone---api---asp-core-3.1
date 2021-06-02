@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CA942747-AE8E-4D63-BF0A-7D3B0D526828}|NgrokTEST">
+  <MonoDevelop.Ide.ItemProperties.webApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="webApp/Controllers/ApiController.cs">
+    <Files>
+      <File FileName="webApp/Controllers/DashboardController.cs" Line="6" Column="8" />
+      <File FileName="webApp/Controllers/ApiController.cs" Line="18" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webApp" expanded="True">
+            <Node name="webApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ApiController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
